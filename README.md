@@ -1,0 +1,18 @@
+# Hi there, I'm Guddian Ansari 👋
+
+## 📊 Data Analyst
+I am a passionate Data Analyst with a strong foundation in extracting insights from data and creating impactful visualizations. I love turning raw data into actionable business decisions.
+
+### 🛠️ Tech Stack & Tools
+*   **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL)
+*   **Data Visualization:** Power BI, Tableau
+*   **Spreadsheets:** Advanced Excel (VLOOKUP, Pivot Tables, Macros)
+*   **Databases:** MySQL
+
+### 📁 Featured Projects
+*   **[Indian Oil - Stock Market Analysis]**: Interactive Power BI dashboard designed to analyze the historical stock market performance of Indian Oil Corporation Limited (IOCL).
+*   *(यहाँ आप आगे जो भी प्रोजेक्ट बनाएंगे, उसका नाम और छोटा सा विवरण लिख सकते हैं)*
+
+### 📫 Connect with me:
+*   LinkedIn: [अपना LinkedIn प्रोफाइल लिंक यहाँ डालें]
+*   Email: [अपना ईमेल आईडी यहाँ डालें]
