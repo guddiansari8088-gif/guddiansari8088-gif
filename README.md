@@ -14,5 +14,5 @@ I am a passionate Data Analyst with a strong foundation in extracting insights f
 *   
 
 ### 📫 Connect with me:
-*   LinkedIn:linkedin.com/in/guddi-ansari-00a7621ab
+*   LinkedIn: linkedin.com/in/guddi-ansari-00a7621ab
 *   Email: guddiansari8088@gmail.com
