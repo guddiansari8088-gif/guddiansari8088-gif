@@ -11,8 +11,8 @@ I am a passionate Data Analyst with a strong foundation in extracting insights f
 
 ### 📁 Featured Projects
 *   **[Indian Oil - Stock Market Analysis]**: Interactive Power BI dashboard designed to analyze the historical stock market performance of Indian Oil Corporation Limited (IOCL).
-*   *(यहाँ आप आगे जो भी प्रोजेक्ट बनाएंगे, उसका नाम और छोटा सा विवरण लिख सकते हैं)*
+*   
 
 ### 📫 Connect with me:
-*   LinkedIn: [अपना LinkedIn प्रोफाइल लिंक यहाँ डालें]
-*   Email: [अपना ईमेल आईडी यहाँ डालें]
+*   LinkedIn:linkedin.com/in/guddi-ansari-00a7621ab
+*   Email: guddiansari8088@gmail.com
